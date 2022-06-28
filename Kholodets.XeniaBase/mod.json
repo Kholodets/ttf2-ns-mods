@@ -1,0 +1,9 @@
+{
+	"Name": "Kholodets.XeniaBase",
+	"Description": "Mod for running on kholodets' server",
+
+	"LoadPriority": 0,
+	"ConVars": [],
+	"Scripts": [],
+	"Localisation": []
+}
